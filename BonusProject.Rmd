@@ -11,5 +11,13 @@ output: html_notebook
 print("Welcome to my Bonus Assignment!")
 ```
 
+```{r}
+print("This is my second commit")
+```
+
+```{r}
+plot(mtcars$mpg, mtcars$wt)
+```
+
 
 
