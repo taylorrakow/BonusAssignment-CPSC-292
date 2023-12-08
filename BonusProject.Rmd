@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+author: Taylor Rakow
+teacher: Dr. Waldrop
+date: December 8, 2023
+output: html_notebook
+---
+
+
+```{r}
+print("Welcome to my Bonus Assignment!")
+```
+
+
+
